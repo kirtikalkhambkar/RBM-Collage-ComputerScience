@@ -22,14 +22,9 @@
               {
                 "glob": "**/*",
                 "input": "public"
-<<<<<<< HEAD
-              },
-               "src/favicon.ico",
-=======
         
               },
                 "src/favicon.ico",
->>>>>>> a94b2b4 (Updated project)
   "src/assets",
   "public"
             ],
